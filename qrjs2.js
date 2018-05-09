@@ -628,7 +628,5 @@ var QRCode = {
 	}
 };
 
-module.exports = {
-	QRCode: QRCode
-};
+export { QRCode };
 /*jshint bitwise: true */
